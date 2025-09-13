@@ -26,9 +26,9 @@
 
 # Valyuta ayirboshlash
 <p float="left">
-  <img src="https://github.com/user-attachments/assets/ef7f4fe8-edeb-4765-a8fa-dabaf1798abf" width="150" />
-  <img src="https://github.com/user-attachments/assets/f80a9ce9-6039-4e97-9157-e8119bfe50d6" width="150" />
-  <img src="https://github.com/user-attachments/assets/1eefbe1e-2cca-401e-8876-145a40413950" width="150" />
+  <img src="https://github.com/user-attachments/assets/6592f22f-a89d-4c97-8acc-5ae46322010f" width="150" />
+  <img src="https://github.com/user-attachments/assets/75d6e863-2060-4e37-9e75-412406ca642e" width="150" />
+  <img src="https://github.com/user-attachments/assets/f0307988-c0a8-4cc1-b908-e488f86f258f" width="150" />
 </p>
 
 # Test creator
