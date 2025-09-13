@@ -7,6 +7,15 @@
   <img src="https://github.com/user-attachments/assets/875ad638-d46a-4add-bdad-83b372ee0909" width="150" />
 </p>
 
+# Dorixonalar uchun
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/74081ef8-4557-4d33-915e-95dcf18dfa7f" width="150" />
+  <img src="https://github.com/user-attachments/assets/1aa5af25-f824-49b7-948b-a19ca0c402a6" width="150" />
+  <img src="https://github.com/user-attachments/assets/3b050398-a0ff-4cd6-bbfc-12c8a71f9f71" width="150" />
+</p>
+
+
+
 
 
 
