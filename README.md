@@ -23,6 +23,13 @@
   <img src="https://github.com/user-attachments/assets/3c819a05-f111-4c39-b5fb-a010b9ca3040" width="150" />
 </p>
 
+# Valyuta ayirboshlash
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/ef7f4fe8-edeb-4765-a8fa-dabaf1798abf" width="150" />
+  <img src="https://github.com/user-attachments/assets/f80a9ce9-6039-4e97-9157-e8119bfe50d6" width="150" />
+  <img src="https://github.com/user-attachments/assets/1eefbe1e-2cca-401e-8876-145a40413950" width="150" />
+</p>
+
 
 
 
