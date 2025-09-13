@@ -1,4 +1,4 @@
-# Talabalarni ro'yxatga olish ilovasi
+![image4](https://github.com/user-attachments/assets/acb33f2b-045b-4952-ab8e-a7d536a65a94)# Talabalarni ro'yxatga olish ilovasi
 <p float="left">
   <img src="https://github.com/user-attachments/assets/66ee07d2-b7dc-41ab-b057-590889019711" width="150" />
   <img src="https://github.com/user-attachments/assets/4bd7a1cf-ca5e-4ec8-88c6-5936c7c0226c" width="150" />
@@ -39,14 +39,32 @@
   <img src="https://github.com/user-attachments/assets/fbd96ef6-1d71-49aa-8089-d88aeb2276b8" width="150" />
 </p>
 
+# Online navbat
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/57c30496-c88a-409b-b137-688cb1b213dc" width="150" />
+  <img src="https://github.com/user-attachments/assets/3b645afe-c3e0-4f25-a91f-b27180a245f0" width="150" />
+</p>
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/9eb9c2fa-8992-4ecc-8848-166321bbaf92" width="150" />
+  <img src="https://github.com/user-attachments/assets/d9480d8d-f919-43d2-ad24-96e9fd871246" width="150" />
+  <img src="https://github.com/user-attachments/assets/f357fd0a-83a2-413b-a99e-8f883a8a090b" width="150" />
+  <img src="https://github.com/user-attachments/assets/28821283-4338-4234-b8b1-a6721cc5325c" width="150" />
+</p>
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/dcdd8566-e01b-47c2-a98a-4d3205b4da74" width="150" />
+  <img src="https://github.com/user-attachments/assets/2d159b15-f7a3-447e-8bc4-a7010e8db4e7" width="150" />
+  <img src="https://github.com/user-attachments/assets/dc1112c5-e455-4c13-b76f-9f5555057bb8" width="150" />
+  <img src="https://github.com/user-attachments/assets/35680bcb-7e37-4970-949d-8785fa77fa68" width="150" />
+  <img src="https://github.com/user-attachments/assets/402215ea-a726-4a1e-8337-0131fc604d90" width="150" />
+</p>
+
 # Test creator
 <p float="left">
   <img src="" width="150" />
   <img src="" width="150" />
   <img src="" width="150" />
+  <img src="" width="150" />
 </p>
-
-
 
 
 
