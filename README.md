@@ -10,8 +10,10 @@ Men mobil ilovalarni ishlab chiqishda kuchli tajribaga ega yuqori malakali Mobil
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-## Apps
-# Market manager
+# Apps
+---
+
+## Market manager
 #Manager uchun
 <p float="left">
   <img src="https://github.com/user-attachments/assets/5007d8f2-8bdf-4dd9-9d42-1c9c73c3c60b" width="150" />
