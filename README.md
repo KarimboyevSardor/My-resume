@@ -2,7 +2,13 @@
 Mobile developer
 
 Men mobil ilovalarni ishlab chiqishda kuchli tajribaga ega yuqori malakali Mobile dasturchiman. Men Android studioda kotlin, java va dart dasturlash tillari orqali turli dasturlarni ishlab chiqib kelmoqdaman hozirda. Men github, RET API, maps, MVVM, SQL, ROOM va boshqa ko'nikmalarga egaman. 
-
+#
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+#
 # Market manager
 #Manager uchun
 <p float="left">
