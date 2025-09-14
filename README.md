@@ -23,7 +23,7 @@
   <img src="https://github.com/user-attachments/assets/3c819a05-f111-4c39-b5fb-a010b9ca3040" width="150" />
 </p>
 
-# Valyuta ayirboshlash
+# Valyuta convertor
 <p float="left">
   <img src="https://github.com/user-attachments/assets/6592f22f-a89d-4c97-8acc-5ae46322010f" width="150" />
   <img src="https://github.com/user-attachments/assets/75d6e863-2060-4e37-9e75-412406ca642e" width="150" />
