@@ -10,8 +10,15 @@ Men mobil ilovalarni ishlab chiqishda kuchli tajribaga ega yuqori malakali Mobil
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
- Apps
+# My Project
+
+Description about the project
+
 ---
+
+## Features
+- Feature 1
+- Feature 2
 
 ## Market manager
 #Manager uchun
