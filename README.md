@@ -37,7 +37,29 @@ Market egalari uchun ishlab chiqilgan boshqaruv ilovasi bo‘lib, ikki xil rolda
 [MVVM](https://en.wikipedia.org/wiki/Model–view–viewmodel) • 
 [Material Page Route](https://api.flutter.dev/flutter/material/MaterialPageRoute-class.html)
 ---
+# My diary
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/4c763b29-d189-4bad-a33c-080e0cc029fd" width="150" />
+  <img src="https://github.com/user-attachments/assets/652979dd-bf89-4439-99f6-ec99157722df" width="150" />
+  <img src="https://github.com/user-attachments/assets/f7614067-21d3-4fc8-8e3f-aee4532a5ce1" width="150" />
+  <img src="https://github.com/user-attachments/assets/67174d91-fafd-44d8-8910-99dfe91d4b9d" width="150" />
+</p>
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/b6003e18-8740-4522-9773-61aa3c34b7f7" width="150" />
+  <img src="https://github.com/user-attachments/assets/4fed7b78-e7d4-469a-ac58-b9aaf52ef0e6" width="150" />
+  <img src="https://github.com/user-attachments/assets/dacd470e-6532-46d2-bd9b-1b9113c3b0e1" width="150" />
+  <img src="https://github.com/user-attachments/assets/ea1ebeb4-0ea9-4928-ae27-e2bc3f953749" width="150" />
+</p>
 
+My Diary — bu shaxsiy kundalik va eslatmalarni saqlash uchun mo‘ljallangan qulay ilova. Unda siz kundalik qilinishi kerak bo‘lgan ishlaringizni, muhim eslatmalarni yoki xohlagan matnli ma’lumotlaringizni saqlashingiz mumkin. Asosiy imkoniyatlari: Papka yaratish va yozuvlarni papkalar bo‘yicha tartibga solish. Oddiy text formatda yozuvlarni saqlash. O‘chirilgan yozuvlar 30 kun davomida o‘chirishlar sahifasida turadi. 30 kun ichida yozuvlarni qaytarish yoki butunlay o‘chirish imkoniyati. My Diary yordamida yozuvlaringizni tartibli va xavfsiz saqlab borishingiz mumkin.
+
+- [Android studio](developer.android.com) •
+[Kotlin](https://kotlinlang.org/) • 
+[Flutter](https://flutter.dev) • 
+[MVVM](https://en.wikipedia.org/wiki/Model–view–viewmodel) • 
+[Fragments](https://developer.android.com/guide/fragments?hl=ru) • 
+[LiveData](https://developer.android.com/topic/libraries/architecture/livedata?hl=ru) • 
+[ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel?hl=ru) • 
 # Talabalar turar joyiga ro'yxatga olish
 <p float="left">
   <img src="https://github.com/user-attachments/assets/66ee07d2-b7dc-41ab-b057-590889019711" width="150" />
