@@ -51,11 +51,14 @@ Mobil ilova talabalarning davomatini yuritish, ularni turli tadbirlarga jalb qil
 👨‍🏫 Nazorat qiluvchi shaxslar – talabalarni ro‘yxatga olish, tadbirlarni boshqarish va baholarni kiritish imkoniyatiga ega.
 🔎 Shuningdek, barcha talabalar ro‘yxatini ko‘rish, izlash va ularning ma’lumotlarini ko‘rib chiqish imkoniyati mavjud.
 
-- [Kotlin](https://kotlinlang.org/) •
+- [Android studio](developer.android.com) •
 [Kotlin](https://kotlinlang.org/) • 
 [Flutter](https://flutter.dev) • 
 [MVVM](https://en.wikipedia.org/wiki/Model–view–viewmodel) • 
-[Fragments](https://developer.android.com/guide/fragments?hl=ru)
+[Fragments](https://developer.android.com/guide/fragments?hl=ru) • 
+[LiveData](https://developer.android.com/topic/libraries/architecture/livedata?hl=ru) • 
+[ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel?hl=ru) • 
+[Retrofit2](https://developer.android.com/codelabs/basic-android-kotlin-compose-getting-data-internet#0) 
 # Dorixonalar uchun
 <p float="left">
   <img src="https://github.com/user-attachments/assets/74081ef8-4557-4d33-915e-95dcf18dfa7f" width="150" />
@@ -63,7 +66,7 @@ Mobil ilova talabalarning davomatini yuritish, ularni turli tadbirlarga jalb qil
   <img src="https://github.com/user-attachments/assets/3b050398-a0ff-4cd6-bbfc-12c8a71f9f71" width="150" />
   <img src="https://github.com/user-attachments/assets/76be9183-b46a-4675-97b5-babecc667993" width="150" />
 </p>
-- Mobil ilova orqali foydalanuvchilar kerakli dori vositalarini qidirib topishi, ular haqida batafsil ma’lumot olishi va zarurat bo‘lsa, onlayn buyurtma berishi mumkin. Ilova dori izlash jarayonini osonlashtirib, foydalanuvchilarga qulay va tezkor xizmat ko‘rsatadi.
+Mobil ilova orqali foydalanuvchilar kerakli dori vositalarini qidirib topishi, ular haqida batafsil ma’lumot olishi va zarurat bo‘lsa, onlayn buyurtma berishi mumkin. Ilova dori izlash jarayonini osonlashtirib, foydalanuvchilarga qulay va tezkor xizmat ko‘rsatadi.
 
 # Contacts
 <p float="left">
@@ -73,16 +76,32 @@ Mobil ilova talabalarning davomatini yuritish, ularni turli tadbirlarga jalb qil
   <img src="https://github.com/user-attachments/assets/beb5b3aa-0bf4-4be0-ae9b-ba089db17123" width="150" />
   <img src="https://github.com/user-attachments/assets/3c819a05-f111-4c39-b5fb-a010b9ca3040" width="150" />
 </p>
-- Foydalanuvchilarga kontaktlarni samarali boshqarish imkonini beruvchi mobil ilova. Unda kontaktlarni qo‘shish, yangilash va o‘chirish bilan birga, ularga qo‘ng‘iroq qilish, SMS yuborish va boshqa qulay amallarni bajarish mumkin.
+Foydalanuvchilarga kontaktlarni samarali boshqarish imkonini beruvchi mobil ilova. Unda kontaktlarni qo‘shish, yangilash va o‘chirish bilan birga, ularga qo‘ng‘iroq qilish, SMS yuborish va boshqa qulay amallarni bajarish mumkin.
 
+- [Android studio](developer.android.com) •
+[Kotlin](https://kotlinlang.org/) • 
+[Flutter](https://flutter.dev) • 
+[MVVM](https://en.wikipedia.org/wiki/Model–view–viewmodel) • 
+[Fragments](https://developer.android.com/guide/fragments?hl=ru) • 
+[LiveData](https://developer.android.com/topic/libraries/architecture/livedata?hl=ru) • 
+[ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel?hl=ru) • 
+[Contacts](https://developer.android.com/identity/providers/contacts-provider/retrieve-names?hl=ru) 
 # Valyuta convertor
 <p float="left">
   <img src="https://github.com/user-attachments/assets/6592f22f-a89d-4c97-8acc-5ae46322010f" width="150" />
   <img src="https://github.com/user-attachments/assets/75d6e863-2060-4e37-9e75-412406ca642e" width="150" />
   <img src="https://github.com/user-attachments/assets/f0307988-c0a8-4cc1-b908-e488f86f258f" width="150" />
 </p>
-- Turli xil valyutalarning joriy kurslarini ko‘rish, kerakli valyutalarni o‘zaro solishtirish va kredit miqdorlarini hisoblash imkonini beruvchi mobil ilova. Foydalanuvchilarga tezkor va qulay valyuta hisob-kitoblarini amalga oshirishda yordam beradi.
+Turli xil valyutalarning joriy kurslarini ko‘rish, kerakli valyutalarni o‘zaro solishtirish va kredit miqdorlarini hisoblash imkonini beruvchi mobil ilova. Foydalanuvchilarga tezkor va qulay valyuta hisob-kitoblarini amalga oshirishda yordam beradi.
 
+- [Android studio](developer.android.com) •
+[Kotlin](https://kotlinlang.org/) • 
+[Flutter](https://flutter.dev) • 
+[MVVM](https://en.wikipedia.org/wiki/Model–view–viewmodel) • 
+[Fragments](https://developer.android.com/guide/fragments?hl=ru) • 
+[LiveData](https://developer.android.com/topic/libraries/architecture/livedata?hl=ru) • 
+[ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel?hl=ru) • 
+[Retrofit2](https://developer.android.com/codelabs/basic-android-kotlin-compose-getting-data-internet#0) 
 # Test creator
 <p float="left">
   <img src="https://github.com/user-attachments/assets/d31f7a89-a3e9-47be-8204-e652f1cdc8be" width="150" />
@@ -90,8 +109,16 @@ Mobil ilova talabalarning davomatini yuritish, ularni turli tadbirlarga jalb qil
   <img src="https://github.com/user-attachments/assets/f33ae086-71bc-46d3-b564-61fd667eb902" width="150" />
   <img src="https://github.com/user-attachments/assets/fbd96ef6-1d71-49aa-8089-d88aeb2276b8" width="150" />
 </p>
-- Foydalanuvchilarga test fayllarini ilovaga yuklab, ular asosida testlar ishlab chiqish va ularga tayyorlanish imkonini beruvchi mobil ilova. Ushbu dastur orqali testlarni ishlash, bilimlarni mustahkamlash va imtihonlarga samarali tayyorlanish mumkin.
+Foydalanuvchilarga test fayllarini ilovaga yuklab, ular asosida testlar ishlab chiqish va ularga tayyorlanish imkonini beruvchi mobil ilova. Ushbu dastur orqali testlarni ishlash, bilimlarni mustahkamlash va imtihonlarga samarali tayyorlanish mumkin.
 
+- [Android studio](developer.android.com) •
+[Kotlin](https://kotlinlang.org/) • 
+[Flutter](https://flutter.dev) • 
+[MVVM](https://en.wikipedia.org/wiki/Model–view–viewmodel) • 
+[Fragments](https://developer.android.com/guide/fragments?hl=ru) • 
+[LiveData](https://developer.android.com/topic/libraries/architecture/livedata?hl=ru) • 
+[ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel?hl=ru) • 
+[Apache poi](https://poi.apache.org/) 
 # Online navbat
 <p float="left">
   <img src="https://github.com/user-attachments/assets/57c30496-c88a-409b-b137-688cb1b213dc" width="150" />
@@ -110,8 +137,16 @@ Mobil ilova talabalarning davomatini yuritish, ularni turli tadbirlarga jalb qil
   <img src="https://github.com/user-attachments/assets/35680bcb-7e37-4970-949d-8785fa77fa68" width="150" />
   <img src="https://github.com/user-attachments/assets/402215ea-a726-4a1e-8337-0131fc604d90" width="150" />
 </p>
-- Turli korxonalar uchun xizmat turlarini tanlab, onlayn navbat olish imkonini beruvchi mobil ilova. Foydalanuvchilar navbatga yozilgach, o‘zlaridan oldinda nechta odam borligini real vaqtda ko‘rib turishlari mumkin. Bu esa xizmatdan foydalanish jarayonini qulay va samarali qiladi.
+Turli korxonalar uchun xizmat turlarini tanlab, onlayn navbat olish imkonini beruvchi mobil ilova. Foydalanuvchilar navbatga yozilgach, o‘zlaridan oldinda nechta odam borligini real vaqtda ko‘rib turishlari mumkin. Bu esa xizmatdan foydalanish jarayonini qulay va samarali qiladi.
 
+- [Android studio](developer.android.com) •
+[Kotlin](https://kotlinlang.org/) • 
+[Flutter](https://flutter.dev) • 
+[MVVM](https://en.wikipedia.org/wiki/Model–view–viewmodel) • 
+[Fragments](https://developer.android.com/guide/fragments?hl=ru) • 
+[LiveData](https://developer.android.com/topic/libraries/architecture/livedata?hl=ru) • 
+[ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel?hl=ru) • 
+[Retrofit2](https://developer.android.com/codelabs/basic-android-kotlin-compose-getting-data-internet#0) 
 # Education app
 <p float="left">
   <img src="https://github.com/user-attachments/assets/2675225a-9187-484e-ac58-4e6965f0c5c4" width="150" />
@@ -120,8 +155,16 @@ Mobil ilova talabalarning davomatini yuritish, ularni turli tadbirlarga jalb qil
   <img src="https://github.com/user-attachments/assets/cc19036a-86ee-4ac0-be67-ca41ca229ff8" width="150" />
   <img src="https://github.com/user-attachments/assets/3a8bea38-1d74-4a92-a437-b0ed168f2a85" width="150" />
 </p>
-- O‘quv jarayonini boshqarishga mo‘ljallangan mobil ilova. Unda o‘quvchilarning fanlar va guruhlar bo‘yicha taqsimoti, dars beruvchi o‘qituvchilar, dars vaqtlari hamda jadvalni boshqarish mumkin. Shuningdek, studentlarni guruhlarga qo‘shish va ularning o‘quv jarayonini nazorat qilish imkoniyati mavjud.
+O‘quv jarayonini boshqarishga mo‘ljallangan mobil ilova. Unda o‘quvchilarning fanlar va guruhlar bo‘yicha taqsimoti, dars beruvchi o‘qituvchilar, dars vaqtlari hamda jadvalni boshqarish mumkin. Shuningdek, studentlarni guruhlarga qo‘shish va ularning o‘quv jarayonini nazorat qilish imkoniyati mavjud.
 
+- [Android studio](developer.android.com) •
+[Kotlin](https://kotlinlang.org/) • 
+[Flutter](https://flutter.dev) • 
+[MVVM](https://en.wikipedia.org/wiki/Model–view–viewmodel) • 
+[Fragments](https://developer.android.com/guide/fragments?hl=ru) • 
+[LiveData](https://developer.android.com/topic/libraries/architecture/livedata?hl=ru) • 
+[ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel?hl=ru) • 
+[Retrofit2](https://developer.android.com/codelabs/basic-android-kotlin-compose-getting-data-internet#0) 
 # Test creator
 <p float="left">
   <img src="" width="150" />
