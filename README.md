@@ -1,7 +1,7 @@
 # Karimboyev Sardor
 Mobile developer
 
-Men mobil ilovalarni ishlab chiqishda kuchli tajribaga ega yuqori malakali Mobile dasturchiman. Men Android studioda kotlin, java va dart dasturlash tillari orqali turli dasturlarni ishlab chiqib kelmoqdaman hozirda. Men github, RET API, maps, MVVM, SQL, ROOM va boshqa ko'nikmalarga egaman. 
+- Men mobil ilovalarni ishlab chiqishda kuchli tajribaga ega yuqori malakali Mobile dasturchiman. Men Android studioda kotlin, java va dart dasturlash tillari orqali turli dasturlarni ishlab chiqib kelmoqdaman hozirda. Men github, RET API, maps, MVVM, SQL, ROOM va boshqa ko'nikmalarga egaman. 
 
 # Skills
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
@@ -10,15 +10,8 @@ Men mobil ilovalarni ishlab chiqishda kuchli tajribaga ega yuqori malakali Mobil
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-# My Project
-
-Description about the project
-
+## My Project
 ---
-
-## Features
-- Feature 1
-- Feature 2
 
 ## Market manager
 #Manager uchun
