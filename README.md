@@ -36,17 +36,6 @@ Market egalari uchun ishlab chiqilgan boshqaruv ilovasi bo‘lib, ikki xil rolda
 [Flutter](https://flutter.dev) • 
 [MVVM](https://en.wikipedia.org/wiki/Model–view–viewmodel) • 
 [Material Page Route](https://api.flutter.dev/flutter/material/MaterialPageRoute-class.html)
-<p align="center">
-  <a href="https://github.com">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="24"/>
-  </a>
-  <br/>
-  <a href="https://github.com">
-    <b>GitHub</b>
-  </a>
-</p>
-
-
 ---
 
 # My diary
@@ -72,7 +61,15 @@ My Diary — bu shaxsiy kundalik va eslatmalarni saqlash uchun mo‘ljallangan q
 [Fragments](https://developer.android.com/guide/fragments?hl=ru) • 
 [LiveData](https://developer.android.com/topic/libraries/architecture/livedata?hl=ru) • 
 [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel?hl=ru) •
-
+<p align="center">
+  <a href="https://github.com">
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="24"/>
+  </a>
+  <br/>
+  <a href="https://github.com/KarimboyevSardor/My_diary">
+    <b>GitHub</b>
+  </a>
+</p>
 ---
 
 # Talabalar turar joyiga ro'yxatga olish
@@ -96,6 +93,15 @@ Mobil ilova talabalarning davomatini yuritish, ularni turli tadbirlarga jalb qil
 [LiveData](https://developer.android.com/topic/libraries/architecture/livedata?hl=ru) • 
 [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel?hl=ru) • 
 [Retrofit2](https://developer.android.com/codelabs/basic-android-kotlin-compose-getting-data-internet#0)
+<p align="center">
+  <a href="https://github.com">
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="24"/>
+  </a>
+  <br/>
+  <a href="https://github.com/KarimboyevSardor/TTJ">
+    <b>GitHub</b>
+  </a>
+</p>
 ---
 
 # Dorixonalar uchun
@@ -114,6 +120,15 @@ Mobil ilova orqali foydalanuvchilar kerakli dori vositalarini qidirib topishi, u
 [Fragments](https://developer.android.com/guide/fragments?hl=ru) • 
 [LiveData](https://developer.android.com/topic/libraries/architecture/livedata?hl=ru) • 
 [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel?hl=ru)
+<p align="center">
+  <a href="https://github.com">
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="24"/>
+  </a>
+  <br/>
+  <a href="https://github.com/KarimboyevSardor/Dorixona">
+    <b>GitHub</b>
+  </a>
+</p>
 ---
 
 # Contacts
@@ -134,6 +149,15 @@ Foydalanuvchilarga kontaktlarni samarali boshqarish imkonini beruvchi mobil ilov
 [LiveData](https://developer.android.com/topic/libraries/architecture/livedata?hl=ru) • 
 [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel?hl=ru) • 
 [Contacts](https://developer.android.com/identity/providers/contacts-provider/retrieve-names?hl=ru)
+<p align="center">
+  <a href="https://github.com">
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="24"/>
+  </a>
+  <br/>
+  <a href="https://github.com/KarimboyevSardor/Valyuta_convertor">
+    <b>GitHub</b>
+  </a>
+</p>
 ---
 
 # Valyuta convertor
@@ -152,6 +176,15 @@ Turli xil valyutalarning joriy kurslarini ko‘rish, kerakli valyutalarni o‘za
 [LiveData](https://developer.android.com/topic/libraries/architecture/livedata?hl=ru) • 
 [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel?hl=ru) • 
 [Retrofit2](https://developer.android.com/codelabs/basic-android-kotlin-compose-getting-data-internet#0)
+<p align="center">
+  <a href="https://github.com">
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="24"/>
+  </a>
+  <br/>
+  <a href="https://github.com/KarimboyevSardor/Valyuta_convertor">
+    <b>GitHub</b>
+  </a>
+</p>
 ---
 
 # Test creator
@@ -171,6 +204,15 @@ Foydalanuvchilarga test fayllarini ilovaga yuklab, ular asosida testlar ishlab c
 [LiveData](https://developer.android.com/topic/libraries/architecture/livedata?hl=ru) • 
 [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel?hl=ru) • 
 [Apache poi](https://poi.apache.org/)
+<p align="center">
+  <a href="https://github.com">
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="24"/>
+  </a>
+  <br/>
+  <a href="https://github.com/KarimboyevSardor/Test-createator-app">
+    <b>GitHub</b>
+  </a>
+</p>
 ---
 
 # Online navbat
@@ -201,6 +243,15 @@ Turli korxonalar uchun xizmat turlarini tanlab, onlayn navbat olish imkonini ber
 [LiveData](https://developer.android.com/topic/libraries/architecture/livedata?hl=ru) • 
 [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel?hl=ru) • 
 [Retrofit2](https://developer.android.com/codelabs/basic-android-kotlin-compose-getting-data-internet#0)
+<p align="center">
+  <a href="https://github.com">
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="24"/>
+  </a>
+  <br/>
+  <a href="https://github.com/KarimboyevSardor/online_navbat_mobile">
+    <b>GitHub</b>
+  </a>
+</p>
 ---
 
 # Education app
@@ -221,6 +272,15 @@ O‘quv jarayonini boshqarishga mo‘ljallangan mobil ilova. Unda o‘quvchilarn
 [LiveData](https://developer.android.com/topic/libraries/architecture/livedata?hl=ru) • 
 [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel?hl=ru) • 
 [Retrofit2](https://developer.android.com/codelabs/basic-android-kotlin-compose-getting-data-internet#0)
+<p align="center">
+  <a href="https://github.com">
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="24"/>
+  </a>
+  <br/>
+  <a href="https://github.com/KarimboyevSardor/Education">
+    <b>GitHub</b>
+  </a>
+</p>
 ---
 
 # Test creator
