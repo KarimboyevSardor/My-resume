@@ -36,6 +36,7 @@ Market egalari uchun ishlab chiqilgan boshqaruv ilovasi bo‘lib, ikki xil rolda
 [Flutter](https://flutter.dev) • 
 [MVVM](https://en.wikipedia.org/wiki/Model–view–viewmodel) • 
 [Material Page Route](https://api.flutter.dev/flutter/material/MaterialPageRoute-class.html)
+
 ---
 
 # My diary
@@ -70,6 +71,7 @@ My Diary — bu shaxsiy kundalik va eslatmalarni saqlash uchun mo‘ljallangan q
     <b>GitHub</b>
   </a>
 </p>
+
 ---
 
 # Talabalar turar joyiga ro'yxatga olish
@@ -102,6 +104,7 @@ Mobil ilova talabalarning davomatini yuritish, ularni turli tadbirlarga jalb qil
     <b>GitHub</b>
   </a>
 </p>
+
 ---
 
 # Dorixonalar uchun
@@ -129,6 +132,7 @@ Mobil ilova orqali foydalanuvchilar kerakli dori vositalarini qidirib topishi, u
     <b>GitHub</b>
   </a>
 </p>
+
 ---
 
 # Contacts
@@ -158,6 +162,7 @@ Foydalanuvchilarga kontaktlarni samarali boshqarish imkonini beruvchi mobil ilov
     <b>GitHub</b>
   </a>
 </p>
+
 ---
 
 # Valyuta convertor
@@ -185,6 +190,7 @@ Turli xil valyutalarning joriy kurslarini ko‘rish, kerakli valyutalarni o‘za
     <b>GitHub</b>
   </a>
 </p>
+
 ---
 
 # Test creator
@@ -213,6 +219,7 @@ Foydalanuvchilarga test fayllarini ilovaga yuklab, ular asosida testlar ishlab c
     <b>GitHub</b>
   </a>
 </p>
+
 ---
 
 # Online navbat
@@ -252,6 +259,7 @@ Turli korxonalar uchun xizmat turlarini tanlab, onlayn navbat olish imkonini ber
     <b>GitHub</b>
   </a>
 </p>
+
 ---
 
 # Education app
@@ -281,6 +289,7 @@ O‘quv jarayonini boshqarishga mo‘ljallangan mobil ilova. Unda o‘quvchilarn
     <b>GitHub</b>
   </a>
 </p>
+
 ---
 
 # Test creator
