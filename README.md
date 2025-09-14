@@ -29,6 +29,7 @@ Mobile developer
   <img src="https://github.com/user-attachments/assets/ea27afe4-e07c-409a-810a-beffcb1b5bfc" width="150" />
 </p>
 - Market egalari uchun ishlab chiqilgan boshqaruv ilovasi bo‘lib, ikki xil rolda ishlaydi: manager va sotuvchi. Ilova orqali kundalik tovar kelishi, qaytarilishi, narxlari, firmadan yetkazib berilishi, buyurtma va qabul qilish jarayonlari elektron shaklda yuritiladi. Shuningdek, manager sotuvchilar faoliyatini nazorat qilishi, qaysi kunda qancha pul aylanganini ko‘rib turishi va barcha savdo jarayonlarini samarali boshqarishi mumkin.
+
 - [Dart](https://dart.dev) • 
 [Flutter](https://flutter.dev) • 
 [MVVM](https://en.wikipedia.org/wiki/Model–view–viewmodel) • 
@@ -38,6 +39,7 @@ Mobile developer
 [firebase_messaging](https://pub.dev/packages/firebase_messaging) • 
 [Material Page Route](https://api.flutter.dev/flutter/material/MaterialPageRoute-class.html)
 ---
+
 # Talabalar turar joyiga ro'yxatga olish
 <p float="left">
   <img src="https://github.com/user-attachments/assets/66ee07d2-b7dc-41ab-b057-590889019711" width="150" />
