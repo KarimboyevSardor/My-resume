@@ -57,6 +57,15 @@
   <img src="https://github.com/user-attachments/assets/402215ea-a726-4a1e-8337-0131fc604d90" width="150" />
 </p>
 
+# Education app
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/2675225a-9187-484e-ac58-4e6965f0c5c4" width="150" />
+  <img src="https://github.com/user-attachments/assets/cd24a8ba-15f1-49a2-b453-84dcd48d58ef" width="150" />
+  <img src="https://github.com/user-attachments/assets/97c99dbf-5088-4210-abad-55065fc0dbd2" width="150" />
+  <img src="https://github.com/user-attachments/assets/cc19036a-86ee-4ac0-be67-ca41ca229ff8" width="150" />
+  <img src="https://github.com/user-attachments/assets/3a8bea38-1d74-4a92-a437-b0ed168f2a85" width="150" />
+</p>
+
 # Test creator
 <p float="left">
   <img src="" width="150" />
@@ -64,7 +73,5 @@
   <img src="" width="150" />
   <img src="" width="150" />
 </p>
-
-
 
 
