@@ -61,6 +61,8 @@ My Diary — bu shaxsiy kundalik va eslatmalarni saqlash uchun mo‘ljallangan q
 [Fragments](https://developer.android.com/guide/fragments?hl=ru) • 
 [LiveData](https://developer.android.com/topic/libraries/architecture/livedata?hl=ru) • 
 [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel?hl=ru) •
+[![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)](https://github.com)
+
 ---
 
 # Talabalar turar joyiga ro'yxatga olish
