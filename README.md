@@ -67,8 +67,27 @@
   <img src="https://github.com/user-attachments/assets/3a8bea38-1d74-4a92-a437-b0ed168f2a85" width="150" />
 </p>
 
+# Market manager
+#Manager uchun
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/5007d8f2-8bdf-4dd9-9d42-1c9c73c3c60b" width="150" />
+  <img src="https://github.com/user-attachments/assets/893d4676-ec5f-44c8-9afc-9b052a8e047b" width="150" />
+  <img src="https://github.com/user-attachments/assets/9afed59b-d4a0-41e8-9caa-25014af0a972" width="150" />
+  <img src="https://github.com/user-attachments/assets/77a06812-f03d-4ed2-99a6-8d2d48633f29" width="150" />
+  <img src="https://github.com/user-attachments/assets/d0fd6232-5062-4312-af7a-af183ef46d37" width="150" />
+</p>
+#Sotuvchi uchun
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/91a880c5-2a35-41a8-82aa-7cb999cf156d" width="150" />
+  <img src="https://github.com/user-attachments/assets/bb8a7d56-e91d-4cfd-ac5a-86bd93a29762" width="150" />
+  <img src="https://github.com/user-attachments/assets/0aaff08d-77c4-44fc-b842-192666962d53" width="150" />
+  <img src="https://github.com/user-attachments/assets/83a07223-37c1-4fff-a53b-b501e366b974" width="150" />
+  <img src="https://github.com/user-attachments/assets/ea27afe4-e07c-409a-810a-beffcb1b5bfc" width="150" />
+</p>
+
 # Test creator
 <p float="left">
+  <img src="" width="150" />
   <img src="" width="150" />
   <img src="" width="150" />
   <img src="" width="150" />
