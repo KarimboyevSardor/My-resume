@@ -28,7 +28,7 @@ Mobile developer
   <img src="https://github.com/user-attachments/assets/83a07223-37c1-4fff-a53b-b501e366b974" width="150" />
   <img src="https://github.com/user-attachments/assets/ea27afe4-e07c-409a-810a-beffcb1b5bfc" width="150" />
 </p>
-- Market egalari uchun ishlab chiqilgan boshqaruv ilovasi bo‘lib, ikki xil rolda ishlaydi: manager va sotuvchi. Ilova orqali kundalik tovar kelishi, qaytarilishi, narxlari, firmadan yetkazib berilishi, buyurtma va qabul qilish jarayonlari elektron shaklda yuritiladi. Shuningdek, manager sotuvchilar faoliyatini nazorat qilishi, qaysi kunda qancha pul aylanganini ko‘rib turishi va barcha savdo jarayonlarini samarali boshqarishi mumkin.
+ - Market egalari uchun ishlab chiqilgan boshqaruv ilovasi bo‘lib, ikki xil rolda ishlaydi: manager va sotuvchi. Ilova orqali kundalik tovar kelishi, qaytarilishi, narxlari, firmadan yetkazib berilishi, buyurtma va qabul qilish jarayonlari elektron shaklda yuritiladi. Shuningdek, manager sotuvchilar faoliyatini nazorat qilishi, qaysi kunda qancha pul aylanganini ko‘rib turishi va barcha savdo jarayonlarini samarali boshqarishi mumkin.
 
 - [Dart](https://dart.dev) • 
 [Flutter](https://flutter.dev) • 
