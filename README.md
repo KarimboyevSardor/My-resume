@@ -38,7 +38,7 @@ Market egalari uchun ishlab chiqilgan boshqaruv ilovasi bo‘lib, ikki xil rolda
 [Material Page Route](https://api.flutter.dev/flutter/material/MaterialPageRoute-class.html)
 <p align="center">
   <a href="https://github.com">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="60"/>
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="24"/>
   </a>
   <br/>
   <a href="https://github.com">
