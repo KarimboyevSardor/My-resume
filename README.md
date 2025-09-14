@@ -1,3 +1,7 @@
+# Karimboyev Sardor
+Mobile developer
+
+Men mobil ilovalarni ishlab chiqishda kuchli tajribaga ega yuqori malakali Mobile dasturchiman. Men Android studioda kotlin, java va dart dasturlash tillari orqali turli dasturlarni ishlab chiqib kelmoqdaman hozirda. Men github, RET API, maps, MVVM, SQL, ROOM va boshqa ko'nikmalarga egaman. 
 # Talabalar turar joyiga ro'yxatga olish
 <p float="left">
   <img src="https://github.com/user-attachments/assets/66ee07d2-b7dc-41ab-b057-590889019711" width="150" />
