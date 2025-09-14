@@ -68,6 +68,13 @@ Mobil ilova talabalarning davomatini yuritish, ularni turli tadbirlarga jalb qil
 </p>
 Mobil ilova orqali foydalanuvchilar kerakli dori vositalarini qidirib topishi, ular haqida batafsil ma’lumot olishi va zarurat bo‘lsa, onlayn buyurtma berishi mumkin. Ilova dori izlash jarayonini osonlashtirib, foydalanuvchilarga qulay va tezkor xizmat ko‘rsatadi.
 
+- [Android studio](developer.android.com) •
+[Kotlin](https://kotlinlang.org/) • 
+[Flutter](https://flutter.dev) • 
+[MVVM](https://en.wikipedia.org/wiki/Model–view–viewmodel) • 
+[Fragments](https://developer.android.com/guide/fragments?hl=ru) • 
+[LiveData](https://developer.android.com/topic/libraries/architecture/livedata?hl=ru) • 
+[ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel?hl=ru)
 # Contacts
 <p float="left">
   <img src="https://github.com/user-attachments/assets/4a3d5036-8811-4108-b38f-71ff4a7e550f" width="150" />
