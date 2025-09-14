@@ -36,6 +36,12 @@ Market egalari uchun ishlab chiqilgan boshqaruv ilovasi bo‘lib, ikki xil rolda
 [Flutter](https://flutter.dev) • 
 [MVVM](https://en.wikipedia.org/wiki/Model–view–viewmodel) • 
 [Material Page Route](https://api.flutter.dev/flutter/material/MaterialPageRoute-class.html)
+<p align="center">
+  <a href="https://github.com">
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="100"/>
+  </a>
+</p>
+
 ---
 
 # My diary
@@ -61,7 +67,6 @@ My Diary — bu shaxsiy kundalik va eslatmalarni saqlash uchun mo‘ljallangan q
 [Fragments](https://developer.android.com/guide/fragments?hl=ru) • 
 [LiveData](https://developer.android.com/topic/libraries/architecture/livedata?hl=ru) • 
 [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel?hl=ru) •
-[![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)](https://github.com)
 
 ---
 
