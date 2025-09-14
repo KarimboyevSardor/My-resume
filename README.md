@@ -28,18 +28,13 @@ Mobile developer
   <img src="https://github.com/user-attachments/assets/83a07223-37c1-4fff-a53b-b501e366b974" width="150" />
   <img src="https://github.com/user-attachments/assets/ea27afe4-e07c-409a-810a-beffcb1b5bfc" width="150" />
 </p>
-- Market egalari uchun ishlab chiqilgan boshqaruv ilovasi bo‘lib, ikki xil rolda ishlaydi: **manager** va **sotuvchi**. 
+Market egalari uchun ishlab chiqilgan boshqaruv ilovasi bo‘lib, ikki xil rolda ishlaydi: manager va sotuvchi. 
   Ilova orqali kundalik tovar kelishi, qaytarilishi, narxlari, firmadan yetkazib berilishi, buyurtma va qabul qilish jarayonlari elektron shaklda yuritiladi. 
   Shuningdek, manager sotuvchilar faoliyatini nazorat qilishi, qaysi kunda qancha pul aylanganini ko‘rib turishi va barcha savdo jarayonlarini samarali boshqarishi mumkin.
-
-
+  
 - [Dart](https://dart.dev) • 
 [Flutter](https://flutter.dev) • 
 [MVVM](https://en.wikipedia.org/wiki/Model–view–viewmodel) • 
-[Riverpod](https://riverpod.dev) • 
-[Retrofit](https://square.github.io/retrofit/) • 
-[RxDart](https://pub.dev/packages/rxdart) • 
-[firebase_messaging](https://pub.dev/packages/firebase_messaging) • 
 [Material Page Route](https://api.flutter.dev/flutter/material/MaterialPageRoute-class.html)
 ---
 
@@ -51,11 +46,16 @@ Mobile developer
   <img src="https://github.com/user-attachments/assets/b5931706-fa7f-4a69-ada1-bb1703bf1b53" width="150" />
   <img src="https://github.com/user-attachments/assets/875ad638-d46a-4add-bdad-83b372ee0909" width="150" />
 </p>
-- Mobil ilova talabalarning davomatini yuritish, ularni turli tadbirlarga jalb qilish va shu tadbirlar orqali baholash imkonini beradi. Ilovada ikki xil rol mavjud:
+Mobil ilova talabalarning davomatini yuritish, ularni turli tadbirlarga jalb qilish va shu tadbirlar orqali baholash imkonini beradi. Ilovada ikki xil rol mavjud:
 👨‍🎓 Talabalar – o‘z davomatini, tadbirlardagi ishtirokini va baholarini ko‘rishlari mumkin.
 👨‍🏫 Nazorat qiluvchi shaxslar – talabalarni ro‘yxatga olish, tadbirlarni boshqarish va baholarni kiritish imkoniyatiga ega.
 🔎 Shuningdek, barcha talabalar ro‘yxatini ko‘rish, izlash va ularning ma’lumotlarini ko‘rib chiqish imkoniyati mavjud.
 
+- [Kotlin](https://kotlinlang.org/) •
+[Kotlin](https://kotlinlang.org/) • 
+[Flutter](https://flutter.dev) • 
+[MVVM](https://en.wikipedia.org/wiki/Model–view–viewmodel) • 
+[Fragments](https://developer.android.com/guide/fragments?hl=ru)
 # Dorixonalar uchun
 <p float="left">
   <img src="https://github.com/user-attachments/assets/74081ef8-4557-4d33-915e-95dcf18dfa7f" width="150" />
