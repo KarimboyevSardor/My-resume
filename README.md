@@ -2,6 +2,26 @@
 Mobile developer
 
 Men mobil ilovalarni ishlab chiqishda kuchli tajribaga ega yuqori malakali Mobile dasturchiman. Men Android studioda kotlin, java va dart dasturlash tillari orqali turli dasturlarni ishlab chiqib kelmoqdaman hozirda. Men github, RET API, maps, MVVM, SQL, ROOM va boshqa ko'nikmalarga egaman. 
+
+# Market manager
+#Manager uchun
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/5007d8f2-8bdf-4dd9-9d42-1c9c73c3c60b" width="150" />
+  <img src="https://github.com/user-attachments/assets/893d4676-ec5f-44c8-9afc-9b052a8e047b" width="150" />
+  <img src="https://github.com/user-attachments/assets/9afed59b-d4a0-41e8-9caa-25014af0a972" width="150" />
+  <img src="https://github.com/user-attachments/assets/77a06812-f03d-4ed2-99a6-8d2d48633f29" width="150" />
+  <img src="https://github.com/user-attachments/assets/d0fd6232-5062-4312-af7a-af183ef46d37" width="150" />
+</p>
+#Sotuvchi uchun
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/91a880c5-2a35-41a8-82aa-7cb999cf156d" width="150" />
+  <img src="https://github.com/user-attachments/assets/bb8a7d56-e91d-4cfd-ac5a-86bd93a29762" width="150" />
+  <img src="https://github.com/user-attachments/assets/0aaff08d-77c4-44fc-b842-192666962d53" width="150" />
+  <img src="https://github.com/user-attachments/assets/83a07223-37c1-4fff-a53b-b501e366b974" width="150" />
+  <img src="https://github.com/user-attachments/assets/ea27afe4-e07c-409a-810a-beffcb1b5bfc" width="150" />
+</p>
+Market egalari uchun ishlab chiqilgan boshqaruv ilovasi bo‘lib, ikki xil rolda ishlaydi: manager va sotuvchi. Ilova orqali kundalik tovar kelishi, qaytarilishi, narxlari, firmadan yetkazib berilishi, buyurtma va qabul qilish jarayonlari elektron shaklda yuritiladi. Shuningdek, manager sotuvchilar faoliyatini nazorat qilishi, qaysi kunda qancha pul aylanganini ko‘rib turishi va barcha savdo jarayonlarini samarali boshqarishi mumkin.
+
 # Talabalar turar joyiga ro'yxatga olish
 <p float="left">
   <img src="https://github.com/user-attachments/assets/66ee07d2-b7dc-41ab-b057-590889019711" width="150" />
@@ -10,6 +30,10 @@ Men mobil ilovalarni ishlab chiqishda kuchli tajribaga ega yuqori malakali Mobil
   <img src="https://github.com/user-attachments/assets/b5931706-fa7f-4a69-ada1-bb1703bf1b53" width="150" />
   <img src="https://github.com/user-attachments/assets/875ad638-d46a-4add-bdad-83b372ee0909" width="150" />
 </p>
+Mobil ilova talabalarning davomatini yuritish, ularni turli tadbirlarga jalb qilish va shu tadbirlar orqali baholash imkonini beradi. Ilovada ikki xil rol mavjud:
+👨‍🎓 Talabalar – o‘z davomatini, tadbirlardagi ishtirokini va baholarini ko‘rishlari mumkin.
+👨‍🏫 Nazorat qiluvchi shaxslar – talabalarni ro‘yxatga olish, tadbirlarni boshqarish va baholarni kiritish imkoniyatiga ega.
+🔎 Shuningdek, barcha talabalar ro‘yxatini ko‘rish, izlash va ularning ma’lumotlarini ko‘rib chiqish imkoniyati mavjud.
 
 # Dorixonalar uchun
 <p float="left">
@@ -18,6 +42,7 @@ Men mobil ilovalarni ishlab chiqishda kuchli tajribaga ega yuqori malakali Mobil
   <img src="https://github.com/user-attachments/assets/3b050398-a0ff-4cd6-bbfc-12c8a71f9f71" width="150" />
   <img src="https://github.com/user-attachments/assets/76be9183-b46a-4675-97b5-babecc667993" width="150" />
 </p>
+Mobil ilova orqali foydalanuvchilar kerakli dori vositalarini qidirib topishi, ular haqida batafsil ma’lumot olishi va zarurat bo‘lsa, onlayn buyurtma berishi mumkin. Ilova dori izlash jarayonini osonlashtirib, foydalanuvchilarga qulay va tezkor xizmat ko‘rsatadi.
 
 # Contacts
 <p float="left">
@@ -27,6 +52,7 @@ Men mobil ilovalarni ishlab chiqishda kuchli tajribaga ega yuqori malakali Mobil
   <img src="https://github.com/user-attachments/assets/beb5b3aa-0bf4-4be0-ae9b-ba089db17123" width="150" />
   <img src="https://github.com/user-attachments/assets/3c819a05-f111-4c39-b5fb-a010b9ca3040" width="150" />
 </p>
+Foydalanuvchilarga kontaktlarni samarali boshqarish imkonini beruvchi mobil ilova. Unda kontaktlarni qo‘shish, yangilash va o‘chirish bilan birga, ularga qo‘ng‘iroq qilish, SMS yuborish va boshqa qulay amallarni bajarish mumkin.
 
 # Valyuta convertor
 <p float="left">
@@ -34,6 +60,7 @@ Men mobil ilovalarni ishlab chiqishda kuchli tajribaga ega yuqori malakali Mobil
   <img src="https://github.com/user-attachments/assets/75d6e863-2060-4e37-9e75-412406ca642e" width="150" />
   <img src="https://github.com/user-attachments/assets/f0307988-c0a8-4cc1-b908-e488f86f258f" width="150" />
 </p>
+Turli xil valyutalarning joriy kurslarini ko‘rish, kerakli valyutalarni o‘zaro solishtirish va kredit miqdorlarini hisoblash imkonini beruvchi mobil ilova. Foydalanuvchilarga tezkor va qulay valyuta hisob-kitoblarini amalga oshirishda yordam beradi.
 
 # Test creator
 <p float="left">
@@ -42,6 +69,7 @@ Men mobil ilovalarni ishlab chiqishda kuchli tajribaga ega yuqori malakali Mobil
   <img src="https://github.com/user-attachments/assets/f33ae086-71bc-46d3-b564-61fd667eb902" width="150" />
   <img src="https://github.com/user-attachments/assets/fbd96ef6-1d71-49aa-8089-d88aeb2276b8" width="150" />
 </p>
+Foydalanuvchilarga test fayllarini ilovaga yuklab, ular asosida testlar ishlab chiqish va ularga tayyorlanish imkonini beruvchi mobil ilova. Ushbu dastur orqali testlarni ishlash, bilimlarni mustahkamlash va imtihonlarga samarali tayyorlanish mumkin.
 
 # Online navbat
 <p float="left">
@@ -61,6 +89,7 @@ Men mobil ilovalarni ishlab chiqishda kuchli tajribaga ega yuqori malakali Mobil
   <img src="https://github.com/user-attachments/assets/35680bcb-7e37-4970-949d-8785fa77fa68" width="150" />
   <img src="https://github.com/user-attachments/assets/402215ea-a726-4a1e-8337-0131fc604d90" width="150" />
 </p>
+Turli korxonalar uchun xizmat turlarini tanlab, onlayn navbat olish imkonini beruvchi mobil ilova. Foydalanuvchilar navbatga yozilgach, o‘zlaridan oldinda nechta odam borligini real vaqtda ko‘rib turishlari mumkin. Bu esa xizmatdan foydalanish jarayonini qulay va samarali qiladi.
 
 # Education app
 <p float="left">
@@ -70,24 +99,7 @@ Men mobil ilovalarni ishlab chiqishda kuchli tajribaga ega yuqori malakali Mobil
   <img src="https://github.com/user-attachments/assets/cc19036a-86ee-4ac0-be67-ca41ca229ff8" width="150" />
   <img src="https://github.com/user-attachments/assets/3a8bea38-1d74-4a92-a437-b0ed168f2a85" width="150" />
 </p>
-
-# Market manager
-#Manager uchun
-<p float="left">
-  <img src="https://github.com/user-attachments/assets/5007d8f2-8bdf-4dd9-9d42-1c9c73c3c60b" width="150" />
-  <img src="https://github.com/user-attachments/assets/893d4676-ec5f-44c8-9afc-9b052a8e047b" width="150" />
-  <img src="https://github.com/user-attachments/assets/9afed59b-d4a0-41e8-9caa-25014af0a972" width="150" />
-  <img src="https://github.com/user-attachments/assets/77a06812-f03d-4ed2-99a6-8d2d48633f29" width="150" />
-  <img src="https://github.com/user-attachments/assets/d0fd6232-5062-4312-af7a-af183ef46d37" width="150" />
-</p>
-#Sotuvchi uchun
-<p float="left">
-  <img src="https://github.com/user-attachments/assets/91a880c5-2a35-41a8-82aa-7cb999cf156d" width="150" />
-  <img src="https://github.com/user-attachments/assets/bb8a7d56-e91d-4cfd-ac5a-86bd93a29762" width="150" />
-  <img src="https://github.com/user-attachments/assets/0aaff08d-77c4-44fc-b842-192666962d53" width="150" />
-  <img src="https://github.com/user-attachments/assets/83a07223-37c1-4fff-a53b-b501e366b974" width="150" />
-  <img src="https://github.com/user-attachments/assets/ea27afe4-e07c-409a-810a-beffcb1b5bfc" width="150" />
-</p>
+O‘quv jarayonini boshqarishga mo‘ljallangan mobil ilova. Unda o‘quvchilarning fanlar va guruhlar bo‘yicha taqsimoti, dars beruvchi o‘qituvchilar, dars vaqtlari hamda jadvalni boshqarish mumkin. Shuningdek, studentlarni guruhlarga qo‘shish va ularning o‘quv jarayonini nazorat qilish imkoniyati mavjud.
 
 # Test creator
 <p float="left">
