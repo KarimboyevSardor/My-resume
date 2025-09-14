@@ -1,3 +1,4 @@
+# Talabalar turar joyiga ro'yxatga olish
 <p float="left">
   <img src="https://github.com/user-attachments/assets/66ee07d2-b7dc-41ab-b057-590889019711" width="150" />
   <img src="https://github.com/user-attachments/assets/4bd7a1cf-ca5e-4ec8-88c6-5936c7c0226c" width="150" />
