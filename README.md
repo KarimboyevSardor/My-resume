@@ -63,7 +63,7 @@ My Diary — bu shaxsiy kundalik va eslatmalarni saqlash uchun mo‘ljallangan q
 [LiveData](https://developer.android.com/topic/libraries/architecture/livedata?hl=ru) • 
 [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel?hl=ru) •
 <p align="center">
-  <a href="https://github.com">
+  <a href="https://github.com/KarimboyevSardor/My_diary">
     <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="24"/>
   </a>
   <br/>
@@ -96,7 +96,7 @@ Mobil ilova talabalarning davomatini yuritish, ularni turli tadbirlarga jalb qil
 [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel?hl=ru) • 
 [Retrofit2](https://developer.android.com/codelabs/basic-android-kotlin-compose-getting-data-internet#0)
 <p align="center">
-  <a href="https://github.com">
+  <a href="https://github.com/KarimboyevSardor/TTJ">
     <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="24"/>
   </a>
   <br/>
@@ -124,7 +124,7 @@ Mobil ilova orqali foydalanuvchilar kerakli dori vositalarini qidirib topishi, u
 [LiveData](https://developer.android.com/topic/libraries/architecture/livedata?hl=ru) • 
 [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel?hl=ru)
 <p align="center">
-  <a href="https://github.com">
+  <a href="https://github.com/KarimboyevSardor/Dorixona">
     <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="24"/>
   </a>
   <br/>
@@ -182,7 +182,7 @@ Turli xil valyutalarning joriy kurslarini ko‘rish, kerakli valyutalarni o‘za
 [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel?hl=ru) • 
 [Retrofit2](https://developer.android.com/codelabs/basic-android-kotlin-compose-getting-data-internet#0)
 <p align="center">
-  <a href="https://github.com">
+  <a href="https://github.com/KarimboyevSardor/Valyuta_convertor">
     <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="24"/>
   </a>
   <br/>
@@ -211,7 +211,7 @@ Foydalanuvchilarga test fayllarini ilovaga yuklab, ular asosida testlar ishlab c
 [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel?hl=ru) • 
 [Apache poi](https://poi.apache.org/)
 <p align="center">
-  <a href="https://github.com">
+  <a href="https://github.com/KarimboyevSardor/Test-createator-app">
     <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="24"/>
   </a>
   <br/>
@@ -251,7 +251,7 @@ Turli korxonalar uchun xizmat turlarini tanlab, onlayn navbat olish imkonini ber
 [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel?hl=ru) • 
 [Retrofit2](https://developer.android.com/codelabs/basic-android-kotlin-compose-getting-data-internet#0)
 <p align="center">
-  <a href="https://github.com">
+  <a href="https://github.com/KarimboyevSardor/online_navbat_mobile">
     <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="24"/>
   </a>
   <br/>
@@ -281,7 +281,7 @@ O‘quv jarayonini boshqarishga mo‘ljallangan mobil ilova. Unda o‘quvchilarn
 [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel?hl=ru) • 
 [Retrofit2](https://developer.android.com/codelabs/basic-android-kotlin-compose-getting-data-internet#0)
 <p align="center">
-  <a href="https://github.com">
+  <a href="https://github.com/KarimboyevSardor/Education">
     <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="24"/>
   </a>
   <br/>
@@ -292,7 +292,7 @@ O‘quv jarayonini boshqarishga mo‘ljallangan mobil ilova. Unda o‘quvchilarn
 
 ---
 
-# Test creator
+# Next app coming soon
 <p float="left">
   <img src="" width="150" />
   <img src="" width="150" />
