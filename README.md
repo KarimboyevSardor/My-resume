@@ -36,7 +36,6 @@ Market egalari uchun ishlab chiqilgan boshqaruv ilovasi bo‘lib, ikki xil rolda
 [Flutter](https://flutter.dev) • 
 [MVVM](https://en.wikipedia.org/wiki/Model–view–viewmodel) • 
 [Material Page Route](https://api.flutter.dev/flutter/material/MaterialPageRoute-class.html)
----
 # My diary
 <p float="left">
   <img src="https://github.com/user-attachments/assets/4c763b29-d189-4bad-a33c-080e0cc029fd" width="150" />
