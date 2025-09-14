@@ -36,6 +36,8 @@ Market egalari uchun ishlab chiqilgan boshqaruv ilovasi bo‘lib, ikki xil rolda
 [Flutter](https://flutter.dev) • 
 [MVVM](https://en.wikipedia.org/wiki/Model–view–viewmodel) • 
 [Material Page Route](https://api.flutter.dev/flutter/material/MaterialPageRoute-class.html)
+---
+
 # My diary
 <p float="left">
   <img src="https://github.com/user-attachments/assets/4c763b29-d189-4bad-a33c-080e0cc029fd" width="150" />
@@ -58,7 +60,9 @@ My Diary — bu shaxsiy kundalik va eslatmalarni saqlash uchun mo‘ljallangan q
 [MVVM](https://en.wikipedia.org/wiki/Model–view–viewmodel) • 
 [Fragments](https://developer.android.com/guide/fragments?hl=ru) • 
 [LiveData](https://developer.android.com/topic/libraries/architecture/livedata?hl=ru) • 
-[ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel?hl=ru) • 
+[ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel?hl=ru) •
+---
+
 # Talabalar turar joyiga ro'yxatga olish
 <p float="left">
   <img src="https://github.com/user-attachments/assets/66ee07d2-b7dc-41ab-b057-590889019711" width="150" />
@@ -79,7 +83,9 @@ Mobil ilova talabalarning davomatini yuritish, ularni turli tadbirlarga jalb qil
 [Fragments](https://developer.android.com/guide/fragments?hl=ru) • 
 [LiveData](https://developer.android.com/topic/libraries/architecture/livedata?hl=ru) • 
 [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel?hl=ru) • 
-[Retrofit2](https://developer.android.com/codelabs/basic-android-kotlin-compose-getting-data-internet#0) 
+[Retrofit2](https://developer.android.com/codelabs/basic-android-kotlin-compose-getting-data-internet#0)
+---
+
 # Dorixonalar uchun
 <p float="left">
   <img src="https://github.com/user-attachments/assets/74081ef8-4557-4d33-915e-95dcf18dfa7f" width="150" />
@@ -96,6 +102,8 @@ Mobil ilova orqali foydalanuvchilar kerakli dori vositalarini qidirib topishi, u
 [Fragments](https://developer.android.com/guide/fragments?hl=ru) • 
 [LiveData](https://developer.android.com/topic/libraries/architecture/livedata?hl=ru) • 
 [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel?hl=ru)
+---
+
 # Contacts
 <p float="left">
   <img src="https://github.com/user-attachments/assets/4a3d5036-8811-4108-b38f-71ff4a7e550f" width="150" />
@@ -113,7 +121,9 @@ Foydalanuvchilarga kontaktlarni samarali boshqarish imkonini beruvchi mobil ilov
 [Fragments](https://developer.android.com/guide/fragments?hl=ru) • 
 [LiveData](https://developer.android.com/topic/libraries/architecture/livedata?hl=ru) • 
 [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel?hl=ru) • 
-[Contacts](https://developer.android.com/identity/providers/contacts-provider/retrieve-names?hl=ru) 
+[Contacts](https://developer.android.com/identity/providers/contacts-provider/retrieve-names?hl=ru)
+---
+
 # Valyuta convertor
 <p float="left">
   <img src="https://github.com/user-attachments/assets/6592f22f-a89d-4c97-8acc-5ae46322010f" width="150" />
@@ -129,7 +139,9 @@ Turli xil valyutalarning joriy kurslarini ko‘rish, kerakli valyutalarni o‘za
 [Fragments](https://developer.android.com/guide/fragments?hl=ru) • 
 [LiveData](https://developer.android.com/topic/libraries/architecture/livedata?hl=ru) • 
 [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel?hl=ru) • 
-[Retrofit2](https://developer.android.com/codelabs/basic-android-kotlin-compose-getting-data-internet#0) 
+[Retrofit2](https://developer.android.com/codelabs/basic-android-kotlin-compose-getting-data-internet#0)
+---
+
 # Test creator
 <p float="left">
   <img src="https://github.com/user-attachments/assets/d31f7a89-a3e9-47be-8204-e652f1cdc8be" width="150" />
@@ -146,7 +158,9 @@ Foydalanuvchilarga test fayllarini ilovaga yuklab, ular asosida testlar ishlab c
 [Fragments](https://developer.android.com/guide/fragments?hl=ru) • 
 [LiveData](https://developer.android.com/topic/libraries/architecture/livedata?hl=ru) • 
 [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel?hl=ru) • 
-[Apache poi](https://poi.apache.org/) 
+[Apache poi](https://poi.apache.org/)
+---
+
 # Online navbat
 <p float="left">
   <img src="https://github.com/user-attachments/assets/57c30496-c88a-409b-b137-688cb1b213dc" width="150" />
@@ -174,7 +188,9 @@ Turli korxonalar uchun xizmat turlarini tanlab, onlayn navbat olish imkonini ber
 [Fragments](https://developer.android.com/guide/fragments?hl=ru) • 
 [LiveData](https://developer.android.com/topic/libraries/architecture/livedata?hl=ru) • 
 [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel?hl=ru) • 
-[Retrofit2](https://developer.android.com/codelabs/basic-android-kotlin-compose-getting-data-internet#0) 
+[Retrofit2](https://developer.android.com/codelabs/basic-android-kotlin-compose-getting-data-internet#0)
+---
+
 # Education app
 <p float="left">
   <img src="https://github.com/user-attachments/assets/2675225a-9187-484e-ac58-4e6965f0c5c4" width="150" />
@@ -192,7 +208,9 @@ O‘quv jarayonini boshqarishga mo‘ljallangan mobil ilova. Unda o‘quvchilarn
 [Fragments](https://developer.android.com/guide/fragments?hl=ru) • 
 [LiveData](https://developer.android.com/topic/libraries/architecture/livedata?hl=ru) • 
 [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel?hl=ru) • 
-[Retrofit2](https://developer.android.com/codelabs/basic-android-kotlin-compose-getting-data-internet#0) 
+[Retrofit2](https://developer.android.com/codelabs/basic-android-kotlin-compose-getting-data-internet#0)
+---
+
 # Test creator
 <p float="left">
   <img src="" width="150" />
