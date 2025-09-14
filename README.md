@@ -15,7 +15,7 @@ Mobile developer
 #Manager uchun
 <p float="left">
   <img src="https://github.com/user-attachments/assets/5007d8f2-8bdf-4dd9-9d42-1c9c73c3c60b" width="150" />
-  <img src="https://github.com/user-attachments/assets/893d4676-ec5f-44c8-9afc-9b052a8e047b" width="150" />
+  <img src="https://github.com/user-attachments/assets/8fa2ba55-1d4c-4854-a75c-2c453d28b1e6" width="150" />
   <img src="https://github.com/user-attachments/assets/9afed59b-d4a0-41e8-9caa-25014af0a972" width="150" />
   <img src="https://github.com/user-attachments/assets/77a06812-f03d-4ed2-99a6-8d2d48633f29" width="150" />
   <img src="https://github.com/user-attachments/assets/d0fd6232-5062-4312-af7a-af183ef46d37" width="150" />
